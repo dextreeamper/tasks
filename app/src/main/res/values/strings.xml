@@ -11,11 +11,17 @@
     <string name="error_incorrect_password">This password is incorrect</string>
     <string name="error_field_required">This field is required</string>
     <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
-    
-    
+
+
     <string name="welcome_name">Welcome, Dexter</string>
     <string name="username_hint">dextreeamper@gmail.com</string>
     <string name="password_hint">12345678</string>
     <string name="login_text">LOGIN</string>
     <string name="create_new_account">CREATE NEW ACCOUNT</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
 </resources>
