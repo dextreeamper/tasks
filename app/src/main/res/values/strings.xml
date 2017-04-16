@@ -14,8 +14,8 @@
 
 
     <string name="welcome_name">Welcome, Dexter</string>
-    <string name="username_hint">dextreeamper@gmail.com</string>
-    <string name="password_hint">12345678</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
     <string name="login_text">LOGIN</string>
     <string name="create_new_account">CREATE NEW ACCOUNT</string>
     <string name="title_activity_main">MainActivity</string>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/private/var/www/tasks/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/private/var/www/tasks/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_53867520c2409dec2572c47edfb64d1b85b10c16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/www/tasks/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/private/var/www/tasks/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_17bb94c927a124ac66677bf6c81c9d8a69ceb08c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/www/tasks/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/private/var/www/tasks/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_387288e244940116c7adac2b5d9c79c6b737739d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/www/tasks/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/private/var/www/tasks/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_8ceb6216f84bbc5138cf8569e0b4d53863406b3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/www/tasks/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/private/var/www/tasks/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_bd3681b1e79d4a60647bbf2b421dead9f694d415.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/www/tasks/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/private/var/www/tasks/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_bf4c7c30402e367cefe83194ae7245cb8810209a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/www/tasks/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/private/var/www/tasks/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_cc7d6d41465710ab1cbee5813a3423e49453903f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/www/tasks/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/private/var/www/tasks/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_10de2ebfd838e1a8c400933ad4d8e97b1df55c85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/www/tasks/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/private/var/www/tasks/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_852c8241962b54318d906adf81f433af96e96a5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/www/tasks/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/private/var/www/tasks/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_121c1d59937ab753905f84b274cb47d51561ae13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/www/tasks/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/private/var/www/tasks/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_183b39533089d193258232cd87d78e896acedaa9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/www/tasks/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/private/var/www/tasks/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_4195e3ad681afea3cbe85bc16572296563cba03e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leetdigital/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/private/var/www/tasks/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_0c45c1af00f2d80c46fa45a9249a4a8d94c4f148.jar" />
+    </item>
+
+</items>
