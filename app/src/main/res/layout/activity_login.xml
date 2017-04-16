@@ -78,7 +78,7 @@
             <Button android:id="@+id/email_sign_in_button" style="@android:style/TextAppearance.Material.Small"
                 android:layout_width="274dp" android:layout_height="62dp"
                 android:layout_gravity="center_vertical|center_horizontal"
-                android:background="#00D386" android:textColor="#fff"
+                android:background="@color/colorPrimary" android:textColor="#fff"
                 android:layout_marginTop="16dp" android:text="@string/login_text"
                 android:textStyle="bold"
                 android:elevation="0dp"
