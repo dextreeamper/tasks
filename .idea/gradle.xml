@@ -8,8 +8,8 @@
         <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1" />
         <option name="modules">
           <set>
-            <option value="/private/var/www/Tasks" />
-            <option value="/private/var/www/Tasks/app" />
+            <option value="/private/var/www/tasks" />
+            <option value="/private/var/www/tasks/app" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

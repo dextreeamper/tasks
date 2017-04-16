@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file:///private/var/www/Tasks/Tasks.iml" filepath="/private/var/www/Tasks/Tasks.iml" />
-      <module fileurl="file:///private/var/www/Tasks/app/app.iml" filepath="/private/var/www/Tasks/app/app.iml" />
+      <module fileurl="file:///private/var/www/tasks/app/app.iml" filepath="/private/var/www/tasks/app/app.iml" />
+      <module fileurl="file:///private/var/www/tasks/tasks.iml" filepath="/private/var/www/tasks/tasks.iml" />
     </modules>
   </component>
 </project>
